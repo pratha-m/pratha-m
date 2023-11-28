@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratha-m" alt="pratha-m" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Type Script**
 
 - 👨‍💻 All of my projects are available at [prathamchhabra.netlify.app](prathamchhabra.netlify.app)
 
