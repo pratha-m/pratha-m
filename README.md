@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Full stack Web Development <br>🌱 I'm currently learning Redux<br>💬 Ask me about Web Technologies<br>⚡ Fun Fact - My preferred workout routine is lifting heavy React components and squatting MongoDB databases<br>
+🔭 I'm currently working on Full stack Web Development <br>🌱 I'm currently learning DSA<br>💬 Ask me about Web Technologies<br>⚡ Fun Fact - My preferred workout routine is lifting heavy React components and squatting MongoDB databases<br>
 
 
 ## 🌐 Socials:
